@@ -1,4 +1,3 @@
-""" Sine Cosine OPtimization Algorithm """
 
 import random
 import numpy
